@@ -1,58 +1,38 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,12,20&text=kiwi%20kittwn&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=thanks%20for%20visiting%20my%20lil%20corner%20of%20the%20internet!!!%20:D&descSize=16&descAlignY=60" alt="kiwi kittwn banner" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=soft&height=110&color=gradient&customColorList=6,12,20&text=kiwi%20kittwn&fontSize=34&fontColor=ffffff&fontAlignY=55" alt="kiwi kittwn" width="70%">
 
-<a href="https://github.com/yf004">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=7BC96F&center=true&vCenter=true&width=600&lines=JC+student+%F0%9F%A5%9D;exploring+computing+%26+research;picking+up+random+cybersecurity+skills;building+with+different+frameworks;always+deepening+my+knowledge+%3AD" alt="Typing SVG">
-</a>
+**thanks for visiting my lil corner of the internet!!! :D**
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=yf004&label=profile+views&color=7bc96f&style=for-the-badge" alt="profile views">
-<a href="https://kiwikittwn.space"><img src="https://img.shields.io/badge/website-kiwikittwn.space-f5d547?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-<a href="mailto:contact@kiwikittwn.space"><img src="https://img.shields.io/badge/email-contact@kiwikittwn.space-7bc96f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<sub>⋆｡˚ ✿ ˚｡⋆</sub>
 
 </div>
 
----
+## about me ♡
 
-## 👩‍💻 about me
+a JC student exploring computing through research, different dev frameworks, and random cybersecurity skills. just... continuing to deepen my knowledge while figuring out my future (◕‿◕)
 
-a JC student who enjoys exploring computing through **research**, **various development frameworks**, picking up random **cybersecurity** skills, and just... continuing to deepen my knowledge while figuring out my future.
+## currently....
 
-<img src="https://img.shields.io/badge/computing-7bc96f?style=flat-square" alt="computing">
-<img src="https://img.shields.io/badge/cybersecurity-f5d547?style=flat-square" alt="cybersecurity">
-<img src="https://img.shields.io/badge/research-7bc96f?style=flat-square" alt="research">
-<img src="https://img.shields.io/badge/privacy-f5d547?style=flat-square" alt="privacy">
-<img src="https://img.shields.io/badge/web%20dev-7bc96f?style=flat-square" alt="web dev">
+�� researching **inference attacks on a biodiversity citizen science platform**
+&nbsp;&nbsp;&nbsp;&nbsp;↳ ur interested or wanna share thoughts? do reach out!
 
----
+�� building [**Eos Initiative**](https://eos-initiative.com) — by girls, for girls, inspiring more girls to explore computing
 
-## 🔬 currently....
+## tech stuff ✿
 
-### Eos Initiative
+<img src="https://skillicons.dev/icons?i=js,html,css,nodejs,python,git&theme=dark" height="34" alt="tech stack">
 
-<a href="https://eos-initiative.com">
-  <img src="https://kiwikittwn.space/static/imgs/home/eos.png" alt="Eos Initiative Logo" width="70">
-</a>
+<img src="https://img.shields.io/badge/cybersecurity-7bc96f?style=flat-square" alt="cybersecurity"> <img src="https://img.shields.io/badge/research-f5d547?style=flat-square" alt="research"> <img src="https://img.shields.io/badge/privacy-7bc96f?style=flat-square" alt="privacy"> <img src="https://img.shields.io/badge/web%20dev-f5d547?style=flat-square" alt="web dev">
 
-by girls, for girls. we aim to inspire and support girls to explore computing.
+## recent blogs
 
-**[check us out!](https://eos-initiative.com)**
+come read my tech notes → [kiwikittwn.space](https://kiwikittwn.space)
 
+## let's connect!
 
----
-
-## 🤝 let's connect!
+<a href="mailto:contact@kiwikittwn.space"><img src="https://img.shields.io/badge/email-contact@kiwikittwn.space-7bc96f?style=flat-square&logo=gmail&logoColor=white" alt="email"></a> <a href="https://kiwikittwn.space"><img src="https://img.shields.io/badge/website-kiwikittwn.space-f5d547?style=flat-square" alt="website"></a>
 
 <div align="center">
-
-<a href="mailto:contact@kiwikittwn.space"><img src="https://img.shields.io/badge/contact@kiwikittwn.space-7bc96f?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-<a href="https://kiwikittwn.space"><img src="https://img.shields.io/badge/kiwikittwn.space-f5d547?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
-<a href="https://eos-initiative.com"><img src="https://img.shields.io/badge/Eos%20Initiative-7bc96f?style=for-the-badge&logo=github&logoColor=white" alt="Eos Initiative"></a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=6,12,20&section=footer" alt="footer" width="100%">
-
+<sub>made with �� ♡</sub>
 </div>
